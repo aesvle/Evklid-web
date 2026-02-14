@@ -9,4 +9,4 @@ A high-fidelity, multi-section corporate landing page developed from a Figma moc
 * **Modern Layouts:** Built using a combination of **Flexbox** and **CSS Grid** for complex structural elements.
 * **Interaction:** Features accessible interactive elements, including custom hover states and transitions.
 
-## [View Live Demo](https://aesvle.github.io/evklid-web/)
+## [View Live Demo](https://aesvle.github.io/Evklid-web/)
